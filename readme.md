@@ -1,3 +1,6 @@
+# npm test -- __tests__/Pilha/Q1.test.js
+
+
 # Estruturas de Dados com JavaScript
 
 Este reposítório contém todos códigos utilizados durante a disciplina de Estruturas de Dados do curso de Análise e Desenvolvimento de Sistemas/UFRN.
